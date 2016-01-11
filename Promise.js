@@ -1,3 +1,4 @@
+if(Promise === undefined)
 (function(root) {
 
 	// Use polyfill for setImmediate for performance gains
